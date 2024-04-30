@@ -1,0 +1,3 @@
+W:\Sebi_test\AutoHTML\AutoHTML\x64\Debug\AutoHTML.vcxproj.AssemblyReference.cache
+W:\Sebi_test\AutoHTML\AutoHTML\x64\Debug\AutoHTML.MyForm.resources
+W:\Sebi_test\AutoHTML\AutoHTML\x64\Debug\AutoHTML.vcxproj.GenerateResource.cache
